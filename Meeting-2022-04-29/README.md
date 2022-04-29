@@ -7,9 +7,11 @@
 
 # Minutes
 
-The integration plans of AIPlan4EU are very welcome and raised no technical concerns.
+The integration concept of AIPlan4EU are very welcome and raised no technical concerns.
 
-The topic of voting was discussed controversially and no final decision was taken. Here is a list of the main arguments:
+The topic of voting was discussed controversially and no final decision was taken. Meanwhile, the TGB will continue on the technical level but without voting. 
+
+Here is a list of the main arguments:
 
 * We need a mechanism to scale: there will be at least 44 additional EU-funded projects related to the AI On Demand Platform
 * The "old" AI4EU voting members are obsolete
