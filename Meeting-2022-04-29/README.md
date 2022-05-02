@@ -21,7 +21,7 @@ Here is a list of the main arguments:
 * There should be a purely technical board to support the open distributed development process
 * The TGB continues, but voting is suspended until the rules are clarified 
 
-Barry O'Sullivan make the following comments:
+Barry O'Sullivan made the following comments:
 
 * Nobody said “The "old" AI4EU voting members are obsolete”. What I said, at least, is that a clear terms of reference is required as we move into the future.
 * On "The rules of the TGB need to be clearly defined and approved by the EC”, again, I made the point that there needs to be a clear terms of reference beyond the AI4EU project. There will be dozens of consortia who will have a stake and an interest in the platform. There is a major transition occurring over the next several months.
