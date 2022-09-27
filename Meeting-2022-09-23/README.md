@@ -27,6 +27,10 @@
     cases. Having a toggle to switch between the current way and a more
     strict way (requiring message name matches) would be useful.
 
+## AI4Europe Drupal CMS Support
+
+Alexandros Tzoumas from Demokritos is the contact person for bug reports  
+
 ## Explanation from Bruno regarding the ICT-38 metadata tempates
 
 In attachment i’ve added the templates that we’ve being used to gather and populate information in our catalogue.
