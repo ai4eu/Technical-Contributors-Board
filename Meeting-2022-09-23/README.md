@@ -9,6 +9,7 @@
 
 10:30 - 11:00 ICT-38 catalog access for both sub-systems: AI4EU Experiments and Drupal Portal
 - [see last slide](ai4eu-tgb-23-09-22.pdf)
+- ICT-38 Metadata [Template.zip](Template.zip) and Example UseCase - Added-Value Weeding Data.zip
 
 **Next Meeting 25.11.22**
 
