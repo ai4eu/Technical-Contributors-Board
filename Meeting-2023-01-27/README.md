@@ -7,3 +7,5 @@
 
 The meeting has been recorded and the recoding will be available until the next meeting on 24.03.24 upon request.
 
+The Meta-Data-API source code is avialble on Github https://github.com/openml-labs/server-demo and a running prototype is planned soon. 
+
