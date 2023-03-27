@@ -1,5 +1,5 @@
-# Technical-Governance-Board (TGB) for the European AI on Demand Platform
+# Technical-Contributors-Board (TGB) for the European AI on Demand Platform (AIoD)
 
-The TGB discusses technical contributions and connects the corresponding experts to advance the platform.
+The TCB discusses technical contributions and connects the corresponding experts and developers to add new features and advance the platform.
 
-# Next Meeting: 24.03.23, 10:00 - 12:00 CEST
+# Next Meeting: 26.05.23, 10:00 - 12:00 CEST
