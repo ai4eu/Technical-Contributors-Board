@@ -8,6 +8,6 @@
 
 # Minutes
 
-The meeting has been recorded and the recoding will be available until the next meeting on 24.03.24 upon request.
+The meeting has been recorded and the recoding will be available until the next meeting on 26.05.24 upon request.
 
 Next meeting will be on 26.05.23
