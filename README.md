@@ -2,6 +2,6 @@
 
 The TCB discusses technical contributions and connects the corresponding experts and developers to add new features and advance the platform.
 
-### Next meeting: Friday 26. April 2024 10-12 CEST
+### Next meeting: Friday 28. June 2024 10-12 CEST
 
 
