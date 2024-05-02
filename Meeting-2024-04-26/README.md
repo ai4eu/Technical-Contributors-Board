@@ -1,4 +1,4 @@
-== Agenda ==
+## Agenda ##
 
 1.	Overview of the supercomputing systems of LuxProvide in the context of LLMs (Francesco Bongiovanni, LuxProvide)
 2.	AMD GPUs in HPC systems of CSC and the Lumi Supercomputer in the context of LLMs (Markus Koskela, CSC)
