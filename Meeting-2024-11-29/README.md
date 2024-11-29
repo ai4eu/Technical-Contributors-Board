@@ -3,6 +3,8 @@
 2. The new AIoD MyLibrary UI that could include the contents from above (Pedro Lopes)
 3. Feedback, Discussion and Questions
 
+**Next meeting will be 31.1.2025 at 10:00 CET**
+
 
 
 # Minutes
