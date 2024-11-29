@@ -7,8 +7,8 @@
 
 # Minutes
 * The "old" Drupal community portal has maintenance issues that could lead to problems and needs a migration plan.
-* There is a synchronizer beeing implemented that would map community portal content into the metadata service
-* the content of the old portal can not yet be mapped completely into the metadata service. Especially the binary documnets (PDF or Word files and images) that have been stored directly in the Drupal database need a migration concept, because the metadata service obviuosly does not store binary contents.
+* There is a synchronizer being implemented that would map community portal content into the metadata service
+* the content of the old portal can not yet be mapped completely into the metadata service. Especially the binary documnets (PDF or Word files and images) that have been stored directly in the Drupal database need a migration concept, because the metadata service obviously does not store binary contents.
 * There were two ideas how this could happen:
   * migrate the binary contents to zenodo and include only the links in the metadata
   * migrate the contents from the Drupal database to the "new" wordpress system
