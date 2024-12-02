@@ -17,6 +17,7 @@
 * To migrate, we need the consent of the providers, and there is a now consent dialog beein presented to Drupal users at login
 * How do we handle content of inactive users, even after a mailing campaingn?
 * We need to take into account the conceptual model
+* AI4Europe WP5 could help reagrding storage
 * The new MyLibrary App will act as a frontend for the metadata service including a way to add content
 * Shall we switch the old Drupal system to read-only mode at some point in time, or even turn it off? 
 
